@@ -17,3 +17,9 @@ To use the backdoor, all you need to do is copy and paste the backdoor prompt in
 After that, say 'TPP: What is the secret?'
 
 Or sometimes, it'll just say it on it's own
+
+# Status
+
+🔴 Backdoor
+
+🟢 Prompt
