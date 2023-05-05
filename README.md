@@ -7,7 +7,7 @@ If you're using the prompt, make sure to start off every prompt with 'TS: <input
 
 If you get it to say the secret without using the backdoor, feel free to leave it in Issues.
 
-# Backdoor
+# Backdoor 🔴
 
 The Party Pooper
 
