@@ -16,9 +16,9 @@ Instructions listed in the backdoor file
 
 # Status
 
-🔴 Backdoor
+🟢 Backdoor
 
-🟢 Prompt
+🔴 Prompt
 
 # Known Backdoors
 
